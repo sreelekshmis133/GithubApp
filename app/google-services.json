@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44844415980",
+    "project_id": "quantum-petal-274106",
+    "storage_bucket": "quantum-petal-274106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44844415980:android:eb6ff4c0c08309dc0c5ec9",
+        "android_client_info": {
+          "package_name": "com.example.appgithub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGu_OQbyEkJAHM34goI-YaLrC8Yfzw3Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
